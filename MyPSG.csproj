@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ModernUIDoneRight">
-      <HintPath>..\Opium\lib\ModernUIDoneRight.dll</HintPath>
+      <HintPath>Lib\ModernUIDoneRight.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.Core.WinForms, Version=20.3460.0.47, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL" />
     <Reference Include="Syncfusion.Licensing, Version=20.3460.0.47, Culture=neutral, PublicKeyToken=632609b4d040f6b4" />
